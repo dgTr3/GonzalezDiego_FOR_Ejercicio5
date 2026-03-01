@@ -1,1 +1,1 @@
-﻿Console.WriteLine("");
+﻿Console.WriteLine("Mostrar una tabla de multiplicar del 1 al 5 (todas juntas).");
